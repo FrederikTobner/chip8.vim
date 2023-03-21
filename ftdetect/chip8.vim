@@ -1,0 +1,1 @@
+autocmd BufNewFile,BufRead *.cp8 :setfiletype chip8
