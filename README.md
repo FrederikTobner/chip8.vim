@@ -2,6 +2,8 @@
 
 Simple plugin that provides CHIP-8 language support for vim and neovim.
 
+![Syntax Highlighting](./images/example.png)
+
 ## Installation
 
 ### Using Git
